@@ -4,7 +4,7 @@ Name: SUDHARSANRAJA
 
 Reg no: 212224080056
 
-Aim:
+# Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
 Sl .no apparatus range type quantity
@@ -15,7 +15,7 @@ Sl .no apparatus range type quantity
 5 Rheostat 1000Ω/1.5 A Wire wouned 1
 6 Connecting wires - - As required
 
-Load test
+#Load test
 125 % of rated current (full load current)
 
 <img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
@@ -26,7 +26,7 @@ Precautions
 3. Starter should be in off position before switching on the supply.
 4. The DPST switch must be kept open.
    
-Procedure for Load test:
+# Procedure for Load test:
 
 1. Connections are given as per the circuit diagram
 2. The prime mover is started with the help of three point starter and it is made to run at rated
@@ -39,13 +39,13 @@ by closing the DPST switch 2.
 7. The motor is switched off by using DPST switch 1 after bringing all the rheostats to
 initial position
 
-Tabular Column:
+# Tabular Column:
 <img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
 
-Model graph:
+# Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
-Result:
+# Result:
 ![WhatsApp Image 2026-03-17 at 2 35 00 PM](https://github.com/user-attachments/assets/fc452e51-1c4a-45d6-8659-ecf0c6f8c131)
 
 
